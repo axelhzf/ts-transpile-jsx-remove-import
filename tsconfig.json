@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react",
+    "module": "ES2015",
+    "outDir": "build",
+    "sourceMap": false,
+    "target": "es5"
+  },
+  "include": [
+    "src"
+  ]
+}

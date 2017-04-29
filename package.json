@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "prop-types": "^15.5.8",
+    "typescript": "^2.3.2"
+  },
+  "scripts": {
+    "build": "rm -rf build && tsc"
+  },
+  "dependencies": {
+    "react": "^15.5.4"
+  }
+}
